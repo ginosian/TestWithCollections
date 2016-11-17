@@ -1,4 +1,4 @@
-package com.company;
+package com.company.complexityTest;
 
 import java.lang.reflect.Field;
 import java.util.*;

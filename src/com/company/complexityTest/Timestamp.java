@@ -1,4 +1,4 @@
-package com.company;
+package com.company.complexityTest;
 
 import java.util.concurrent.TimeUnit;
 
